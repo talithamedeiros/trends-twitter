@@ -1,6 +1,6 @@
 ## Twitter's trending topics
 
-A simple json response with the current twitter's trending topics using python :)
+A simple json response with the twitter's current trending topics using python :)
 
 ### Requirements
 * Python
