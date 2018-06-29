@@ -24,8 +24,6 @@ A simple json response with the twitter's current trending topics using python :
 
 * Put your keys and access tokens in the parameters
 
-* Run the app!
+* Run the app: ``python3 trends.py``
 
-``python3 trends.py``
-
-* Any questions? [python-twitter](https://github.com/bear/python-twitter) and [twitter authentication](https://developer.twitter.com/en/docs/basics/authentication/overview) can help you :)
+#### Any questions? [python-twitter](https://github.com/bear/python-twitter) and [twitter authentication](https://developer.twitter.com/en/docs/basics/authentication/overview) can help you :)
